@@ -1,4 +1,8 @@
-## Oiii! Eu sou o Gildasio Sousa
+## Oi! Eu sou o Gildasio Sousa
+💻 OS - Linux
+⚡ ORACLE
+📊 Analytics
+
  <div>
   <a href="https://github.com/gildasiosousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gildasiosousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
