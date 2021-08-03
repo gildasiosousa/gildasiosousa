@@ -1,8 +1,26 @@
 ## Oi! Eu sou o Gildasio Sousa
-💻 OS - Linux
-⚡ ORACLE
+<div>
 📊 Analytics
-
+☁ Cloud - AWS - GOOGLE
+🎓📚 Engenharia Mecânica
+</div>
+ <div>
+<img height="30em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img height="30em" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img height="30em" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img height="30em" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img height="30em" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
+<img height="30em" src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white">
+<div>
+<img height="30em" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
+ <img height="30em" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+ <img height="30em" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+<img height="30em" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
+<img height="30em" src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white">
+<img height="30em" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white">
+</div>
+  </div>
+ 
  <div>
   <a href="https://github.com/gildasiosousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gildasiosousa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
