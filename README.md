@@ -1,4 +1,4 @@
-## Oi! Eu sou o Gildasio Sousa
+## Hi! I am Gildasio Sousa
 <div>
 📊 Analytics
 ☁ Cloud - AWS - GOOGLE
